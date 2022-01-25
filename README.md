@@ -16,7 +16,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali1ammar&show_icons=true&locale=en&layout=compact" alt="ali1ammar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali1ammar&show_icons=true&locale=en" alt="ali1ammar" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali1ammar&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ali1ammar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali1ammar&" alt="ali1ammar" /></p>
 
+
+> <h3> Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.</h3>
+> <p>- Bill Gates</p>
