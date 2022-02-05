@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Ammar</h1>
+<p align="center"><img  src="https://github.com/Ali1Ammar/Ali1Ammar/blob/main/devcard.svg" width="400" alt="Ali Ammar Dev Card"/></p>
 <h3 align="center">A mobile developer from Iraq , studying computer engineering at U⚙️T Baghdad </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali1ammar&label=Profile%20views&color=0e75b6&style=flat" alt="ali1ammar" /> </p>
