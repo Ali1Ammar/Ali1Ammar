@@ -10,7 +10,7 @@
 
 - 🤗 I built this app **sjaj , qabuli** , see it from the store link below 👇👇
 
-- 👉 My project available at **<a target="_blank" href="https://apps.apple.com/us/developer/ali-ammar/id1548142295">app store</a> ,  <a  target="_blank"href="https://play.google.com/store/apps/dev?id=5552499890517086780">google play</a>**
+- 👉 My project available at **<a target="_blank" href="https://apps.apple.com/us/developer/ali-ammar/id1548142295">app store</a> ,  <a  target="_blank" href="https://play.google.com/store/apps/dev?id=5552499890517086780">google play</a>**
 
 - 💬 Ask me about **flutter, dart, nodejs, typescript**
 
