@@ -10,15 +10,16 @@
 
 - 🤗 I built this app **sjaj , qabuli** , see it from the store link below 👇👇
 
-- 👉 My project available at **<a href="https://apps.apple.com/us/developer/ali-ammar/id1548142295">app store</a> ,  <a href="https://play.google.com/store/apps/dev?id=5552499890517086780">google play</a>**
+- 👉 My project available at **<a target="_blank" href="https://apps.apple.com/us/developer/ali-ammar/id1548142295">app store</a> ,  <a  target="_blank"href="https://play.google.com/store/apps/dev?id=5552499890517086780">google play</a>**
 
 - 💬 Ask me about **flutter, dart, nodejs, typescript**
 
-- 📫 How to reach me **aliammarali125@gmail.com**
-
 - 🔥 I'm intersted in **AI, Machine learning,  ui/ux**
 
-- 📝 You could found <a href="https://drive.google.com/drive/u/0/folders/1NAq_6irmzJbcVHOALJpObFuBRkHPfYHj">**my resume here**</a> 
+- 📝 You could found <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1NAq_6irmzJbcVHOALJpObFuBRkHPfYHj">**my resume here**</a> 
+
+- 📫 How to reach me **aliammarali125@gmail.com** ,<a target="_blank" href="https://www.linkedin.com/in/aliammar125j">LinkedIn</a>  
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
