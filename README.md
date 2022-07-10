@@ -18,7 +18,7 @@
 
 - 📝 You could found <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1NAq_6irmzJbcVHOALJpObFuBRkHPfYHj">**my resume here**</a> 
 
-- 📫 How to reach me **aliammarali125@gmail.com** ,<a target="_blank" href="https://www.linkedin.com/in/aliammar125">LinkedIn</a>  
+- 📫 How to reach me **aliammarassi@gmail.com** ,<a target="_blank" href="https://www.linkedin.com/in/aliammar125">LinkedIn</a>  
 
 
 <h3 align="left">Languages and Tools:</h3>
