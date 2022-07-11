@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Ammar</h1>
 <p align="center"><img  src="https://github.com/Ali1Ammar/Ali1Ammar/blob/main/devcard.svg" width="400" alt="Ali Ammar Dev Card"/></p>
-<h3 align="center">A mobile developer from Iraq , studying computer engineering at U⚙️T Baghdad </h3>
+<h3 align="center">A mobile developer from Iraq , computer engineering grade from U⚙️T Baghdad , programmer youtuber </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali1ammar&label=Profile%20views&color=0e75b6&style=flat" alt="ali1ammar" /> </p>
 
@@ -17,8 +17,10 @@
 - 🔥 I'm intersted in **AI, Machine learning,  ui/ux**
 
 - 📝 You could found <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1NAq_6irmzJbcVHOALJpObFuBRkHPfYHj">**my resume here**</a> 
-
+- 🎥 and <a target="_blank" href="https://www.youtube.com/channel/UCbpWgEBZUhTpoRdmyDRv2CQ">**my youtube channel here**</a> 
 - 📫 How to reach me **aliammarassi@gmail.com** ,<a target="_blank" href="https://www.linkedin.com/in/aliammar125">LinkedIn</a>  
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
