@@ -1,37 +1,40 @@
 <h1 align="center">Hi 👋, I'm Ali Ammar</h1>
+<h3 align="center">A mobile developer from Iraq , computer engineering grade from U⚙️T Baghdad</h3>
+
 <p align="center"><img  src="https://github.com/Ali1Ammar/Ali1Ammar/blob/main/devcard.svg" width="400" alt="Ali Ammar Dev Card"/></p>
-<h3 align="center">A mobile developer from Iraq , computer engineering grade from U⚙️T Baghdad , programmer youtuber </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali1ammar&label=Profile%20views&color=0e75b6&style=flat" alt="ali1ammar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali1ammar" alt="ali1ammar" /></a> </p>
-
-- 🌱 I’m currently learning **desgin pattren, clean code**
-
-- 🤗 I built this app **sjaj , qabuli** , see it from the store link below 👇👇
-
+# 💫 About Me:
+- 🌱 I’m currently learning software architecture, agile and project mangement
+- 💬 Ask me about flutter and dart
+- 📫 How to reach me aliammarali125@gmail.com
 - 👉 My project available at **<a target="_blank" href="https://apps.apple.com/us/developer/ali-ammar/id1548142295">app store</a> ,  <a  target="_blank" href="https://play.google.com/store/apps/dev?id=5552499890517086780">google play</a>**
 
-- 💬 Ask me about **flutter, dart, nodejs, typescript**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliammar125) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@aliammarassi) 
 
-- 🔥 I'm intersted in **AI, Machine learning,  ui/ux**
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Ali1Ammar&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Ali1Ammar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali1Ammar&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-- 📝 You could found <a target="_blank" href="https://drive.google.com/drive/u/0/folders/1NAq_6irmzJbcVHOALJpObFuBRkHPfYHj">**my resume here**</a> 
-- 🎥 and <a target="_blank" href="https://www.youtube.com/channel/UCbpWgEBZUhTpoRdmyDRv2CQ">**my youtube channel here**</a> 
-- 📫 How to reach me **aliammarassi@gmail.com** ,<a target="_blank" href="https://www.linkedin.com/in/aliammar125">LinkedIn</a>  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Ali1Ammar&theme=alduin&no-frame=false&no-bg=false&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ali1ammar&show_icons=true&locale=en&layout=compact" alt="ali1ammar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ali1ammar&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="ali1ammar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ali1ammar&" alt="ali1ammar" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Ali1Ammar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
-> <h3> Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.</h3>
-> <p>- Bill Gates</p>
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
