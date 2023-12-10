@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Riverpod: Inversion of Control, Dependency Injection, Dependency Inversion, and Service Locator](https://levelup.gitconnected.com/riverpod-inversion-of-control-dependency-injection-dependency-inversion-and-service-locator-24a1c6972ed6?source=rss-1a307894ccc8------2)
 - [Async init with Riverpod](https://medium.com/@aliammariraq/async-init-with-riverpod-1ba9947a2e72?source=rss-1a307894ccc8------2)
 - [Unveiling the Power of Riverpod: A Simple Guide to its Features](https://medium.com/@aliammariraq/unveiling-the-power-of-riverpod-a-simple-guide-to-its-features-f3878dda24bc?source=rss-1a307894ccc8------2)
 - [Unlocking the Power of Pagination with Riverpod and Hooks](https://blog.stackademic.com/unlocking-the-power-of-pagination-with-riverpod-and-hooks-67dd38fbfa59?source=rss-1a307894ccc8------2)
-- [Sealed Classes in Flutter: Unlocking Powerful Features](https://medium.com/@aliammariraq/sealed-classes-in-flutter-unlocking-powerful-features-b73ab5838ca0?source=rss-1a307894ccc8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 😂 Random Dev Meme
