@@ -33,10 +33,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Flutter Tips: Represent Data](https://levelup.gitconnected.com/flutter-tips-represent-data-bab1ab57167c?source=rss-1a307894ccc8------2)
 - [Statement vs. Expression in Dart](https://levelup.gitconnected.com/statement-vs-expression-in-dart-b9af4a3b525d?source=rss-1a307894ccc8------2)
 - [How To Avoid Use Cases Boilerplate in Flutter](https://levelup.gitconnected.com/how-to-avoid-use-cases-boilerplate-in-flutter-42f8892d5ea7?source=rss-1a307894ccc8------2)
 - [Riverpod: Inversion of Control, Dependency Injection, Dependency Inversion, and Service Locator](https://levelup.gitconnected.com/riverpod-inversion-of-control-dependency-injection-dependency-inversion-and-service-locator-24a1c6972ed6?source=rss-1a307894ccc8------2)
-- [Async init with Riverpod](https://medium.com/@aliammariraq/async-init-with-riverpod-1ba9947a2e72?source=rss-1a307894ccc8------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 😂 Random Dev Meme
